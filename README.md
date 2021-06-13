@@ -29,8 +29,8 @@
 </p>
 
 
-[website]: 
+<!-- [website]:  -->
 [twitter]: https://twitter.com/M_Aravindreddy
-[youtube]: https://youtube.com/
-[facebook]: https://facebook.com/
+<!-- [youtube]: https://youtube.com/
+[facebook]: https://facebook.com/ -->
 [linkedin]: https://linkedin.com/in/aravindreddy-m
