@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on Flutter Open-Source project!
 - 🤔 I’m looking for help with, Meanwhile Nothing 🚀
 - 💬 Ask me about Flutter and Front-End Web Development😎
-- 🌍 My Portfolio [https://www.armr.tech/](https://www.armr.tech/)
+- 🌍 My Portfolio [https://www.armr.tech/](https://armr.tech/)
 
 **Connect with me:**
 
