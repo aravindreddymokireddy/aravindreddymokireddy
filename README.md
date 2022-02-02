@@ -7,6 +7,10 @@
 - 💬 Ask me about Flutter and Front-End Web Development😎
 - 🌍 My Portfolio [https://www.armr.tech/](https://armr.tech/)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aravindreddymokireddy&label=Profile%20views&color=0e75b6&style=flat" alt="aravindreddymokireddy" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aravindreddymokireddy" alt="aravindreddymokireddy" /></a> </p>
+
 **Connect with me:**
 
 <!-- [<img align="left" alt="" width="22px" src="https://img.icons8.com/ultraviolet/22/000000/domain.png" />][website]
