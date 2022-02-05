@@ -10,7 +10,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aravindreddymokireddy&label=Profile%20views&color=0e75b6&style=flat" alt="aravindreddymokireddy" /> </p>
 
 
-<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=matrix"><img src="https://github-profile-trophy.vercel.app/?username=aravindreddymokireddy" alt="aravindreddymokireddy" /></a> </p>
+<!-- <p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=matrix"><img src="https://github-profile-trophy.vercel.app/?username=aravindreddymokireddy" alt="aravindreddymokireddy" /></a> </p> -->
 
 **Connect with me:**
 
