@@ -1,36 +1,35 @@
-## Hi there 👋       
+## Hi there 👋  I'm Aravind Reddy and I'm a Flutter and Web Developer. 
 
-- 🔭 I’m currently working on Flutter Projects
-- 🌱 I’m currently learning Cyber Security
-- 👯 I’m looking to collaborate on Flutter Open-Source project!
-- 🤔 I’m looking for help with, Meanwhile Nothing 🚀
-- 💬 Ask me about Flutter and Front-End Web Development😎
-<!-- - 🌍 My Portfolio [https://www.armr.tech/](https://armr.tech/) -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dheerajghubaravindreddymokireddy&label=Profile%20views&color=0e75b6&style=flat" alt="aravindreddymokireddy" /> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aravindreddymokireddy&label=Profile%20views&color=0e75b6&style=flat" alt="aravindreddymokireddy" /> </p>
+### About Me 
+
+- I'm a self taught Flutter Developer and love to share my knowledge by contributing to open source projects.
 
 
-<!-- <p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=matrix"><img src="https://github-profile-trophy.vercel.app/?username=aravindreddymokireddy" alt="aravindreddymokireddy" /></a> </p> -->
+<table cellspacing="0" cellpadding="0" style="border:none;">
+  <tr>
+    <td>
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=aravindreddymokireddy&show_icons=true&locale=en" alt="aravindreddymokireddy" />
+    </td>
+    <td>
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aravindreddymokireddy&" alt="aravindreddymokireddy" />
+    </td>
+   </tr>
+</table>
 
-**Connect with me:**
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=aravindreddymokireddy&theme=react-dark&bg_color=003140&hide_border=true" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=aravindreddymokireddy&theme=flat&column=7&margin-w=10" alt="logo" height="160" />
+</p>
 
-<!-- [<img align="left" alt="" width="22px" src="https://img.icons8.com/ultraviolet/22/000000/domain.png" />][website]
-[<img align="left" alt="" width="22px" src="https://img.icons8.com/color/22/000000/youtube-play.png" />][youtube] -->
-[<img align="left" alt="aravindreddy | Twitter" width="22px" src="https://img.icons8.com/fluent/22/000000/twitter.png" />][twitter]
-[<img align="left" alt="aravindreddy mokireddy | LinkedIn" width="22px" src="https://img.icons8.com/color/22/000000/linkedin.png" />][linkedin]
-
-<br />
-<br />
-<br />
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aravindreddymokireddy&hide=javascript,objective-c&layout=compact&theme=dracula)]()
-
-[![Aravind Reddy's github stats](https://github-readme-stats.vercel.app/api?username=aravindreddymokireddy&&show_icons=true&count_private=true&theme=dracula)]()
-
----
+## Languages and Tools I use
+<p align="left"> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+  
+## Connect with me
+<p align="left">
+<a href="https://linkedin.com/in/aravindreddy-m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dheerajin" height="30" width="40" /></a>
 
 
-[twitter]: https://twitter.com/M_Aravindreddy
-[linkedin]: https://linkedin.com/in/aravindreddy-m
-[website]: https://armr.tech/
+### Explore my repos to know more.... 👇
+
