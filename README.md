@@ -1,27 +1,31 @@
-## Hi there 👋  I'm Aravind Reddy and I'm a Flutter and Web Developer. 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dheerajghubaravindreddymokireddy&label=Profile%20views&color=0e75b6&style=flat" alt="aravindreddymokireddy" /> </p>
-
-### About Me 
-
-- I'm a self taught Flutter Developer and love to share my knowledge by contributing to open source projects.
-
-
-<table cellspacing="0" cellpadding="0" style="border:none;">
-  <tr>
-    <td>
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=aravindreddymokireddy&show_icons=true&locale=en" alt="aravindreddymokireddy" />
-    </td>
-    <td>
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aravindreddymokireddy&" alt="aravindreddymokireddy" />
-    </td>
-   </tr>
-</table>
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">Software Engineer</h1>
+ <a href="https://github.com/GruDev325/GruDev325/"> </a>
+<br/>
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=aravindreddymokireddy&theme=react-dark&bg_color=003140&hide_border=true" width="100%"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=aravindreddymokireddy&theme=flat&column=7&margin-w=10" alt="logo" height="160" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=1AF761&lines=Learning+New+Things+Everyday;Never+Stop+Learning!&center=true&width=800&height=45" alt="futuresea-dev">
 </p>
+<hr/>
+
+
+## 🔥 Streak Stats
+
+<p align="center">
+	<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=aravindreddymokireddy&theme=tokyonight_duo&hide_border=true" alt="futuresea-dev" />
+  <p align="center"> Stay hungry, Stay foolish 🔥 </p>
+</p>
+
+## ⚡ Recent GitHub Activity
+<br/>
+ <img alt="Aravind Reddy Mokireddy's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=aravindreddymokireddy&custom_title=Aravind%20Reddy%20Mokireddy's%20Contribution%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=false" />
+<br/>
+
+## 📊 Github Stats
+
+<img align="left" alt="Aravind Reddy Mokireddy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=aravindreddymokireddy&show_icons=true&include_all_commits=true&count_private=true&icon_color=fff&text_color=fff&bg_color=DEG,000,000,001,002,003" height="170px"/>
+<img align="right" alt="Aravind Reddy Mokireddy's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aravindreddymokireddy&layout=compact&langs_count=8&theme=dark&hide_border=false&title_color=F85D7F&icon_color=F8D866" height="170px"/>
+
+
 
 ## Languages and Tools I use
 <p align="left"> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a>
