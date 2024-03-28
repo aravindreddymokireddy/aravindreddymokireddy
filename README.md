@@ -8,25 +8,6 @@
 <hr/>
 
 
-## 🔥 Streak Stats
-
-<p align="center">
-	<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=aravindreddymokireddy&theme=tokyonight_duo&hide_border=true" alt="futuresea-dev" />
-  <p align="center"> Stay hungry, Stay foolish 🔥 </p>
-</p>
-
-## ⚡ Recent GitHub Activity
-<br/>
- <img alt="Aravind Reddy Mokireddy's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=aravindreddymokireddy&custom_title=Aravind%20Reddy%20Mokireddy's%20Contribution%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=false" />
-<br/>
-
-## 📊 Github Stats
-
-<img align="left" alt="Aravind Reddy Mokireddy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=aravindreddymokireddy&show_icons=true&include_all_commits=true&count_private=true&icon_color=fff&text_color=fff&bg_color=DEG,000,000,001,002,003" height="170px"/>
-<img align="right" alt="Aravind Reddy Mokireddy's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aravindreddymokireddy&layout=compact&langs_count=8&theme=dark&hide_border=false&title_color=F85D7F&icon_color=F8D866" height="170px"/>
-
-
-
 ## Languages and Tools I use
 <p align="left"> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a>
   <a href="https://www.figma.com/" target="_blank"> <img src="https://symbols-electrical.getvecta.com/stencil_80/29_figma-icon.38673192e6.svg" alt="figma" width="40" height="40"/> </a>
